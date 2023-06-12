@@ -1,2 +1,0 @@
-User1|Tester
-User2|Programmer
