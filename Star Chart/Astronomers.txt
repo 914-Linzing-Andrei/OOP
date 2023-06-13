@@ -1,0 +1,2 @@
+Astronomer1|Constellation1
+Astronomer2|Constellation2
